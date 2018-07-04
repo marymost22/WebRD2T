@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: Calibri, serif;
+    font-weight: lighter;
+}
+
+html,body{
+    background-color: #d6e8e3;
+}
+
+/******************* Estilos del menú *******************/
+
+.menuSection{
+    height: 100%;
+    width: 15%;
+
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+
+a#tituloMenu{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: darkgray;
+}
+
+a.menuItem{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    height: auto;;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.menuItem:hover {
+    background-color: darkgray;
+}
+
+.menuItem:active {
+    background-color: #fcf6ff;
+    color: #111111;
+}
+
+/******************* Estilos del mapa *******************/
+
+section.map{
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    position:absolute;
+}
+
+
+.infoDetailLabel{
+    font-weight: 700;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+    vertical-align: top;
+    padding-right: 3px;
+    min-width: 60px;
+    max-width: 150px;
+}
+
+
+
+.infoDetailContent {
+    min-height: 21px;
+    min-width: 150px;
+    max-width: 287px;
+    word-wrap: break-word;
+    text-align: left;
+}
+
+#map-infowindow-attribute-table td {
+    border-width: 0;
+    padding: 0;
+    padding-bottom: 2px;
+    margin: 0;
+    vertical-align: top;
+}
