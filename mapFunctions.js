@@ -134,7 +134,7 @@ function initMap(markersJSON) {
     var contentString;
 
     console.log("HOLA!!!!");
-    console.log(JSON.parse(markersJSON));
+ //   console.log(JSON.parse(markersJSON));
    /* for(let i =0 ; i<markers.length; i++){
         console.log(markers[i]);
     }*/

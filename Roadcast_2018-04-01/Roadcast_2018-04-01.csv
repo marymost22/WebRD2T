@@ -1,0 +1,93 @@
+EstaciónID,Estacion,Latitud,Longitud,Nivel,Variable,Previsión
+12,A Coruña ,43.272747,-8.399751,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+13,Cecebre,43.260465,-8.291073,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante las primeras horas de la tarde.
+
+14,Cecebre,43.262033,-8.2494,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante el día y durante últimas horas de la madrugada.
+
+20,Sabón,43.291743,-8.486969,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+21,Carballo ,43.242871,-8.662591,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+22,Herves,43.182082,-8.310615,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante el día y durante últimas horas de la madrugada.
+
+25,Pontedeume,43.38296,-8.178453,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante toda la jornada.
+
+26,Túnel de O Sartego,43.480247,-8.158183,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante las primeras horas de la tarde.
+
+27,San Sadurniño,43.52514,-8.0881,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante las primeras horas de la tarde y durante primeras horas de la madrugada.
+
+30,Vilalba,43.410117,-7.813111,Amarillo,Visibilidad,Previsión de nivel de servicio amarillo por visibilidad reducida durante las primeras horas de la mañana. Probabilidad de viento débil de dirección sureste durante toda la jornada.
+
+32,Cereixal,42.889617,-7.182783,Verde,Visibilidad,Previsión de nivel de servicio verde por visibilidad reducida durante las primeras horas de la mañana. Probabilidad de viento débil de dirección sureste durante las primeras horas de la tarde y durante la madrugada. Probabilidad de lluvia débil durante las primeras horas de la tarde y durante últimas horas de la madrugada.
+
+33,Cereixal,42.867249,-7.170019,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante las primeras horas de la tarde.
+
+34,Nogales ,42.812491,-7.105409,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección este durante las últimas horas de la mañana.
+
+35,Nogales ,42.790763,-7.109719,,,No se esperan fenómenos meteorológicos significativos durante las próximas 24 horas.
+
+36,Pedrafita,42.7373,-7.04695,,,No se esperan fenómenos meteorológicos significativos durante las próximas 24 horas.
+
+37,Pedrafita,42.7279,-7.03765,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante primeras horas de la madrugada. Probabilidad de viento débil de dirección sur durante las primeras horas de la tarde.
+
+40,Pedrafita,42.72264,-7.016757,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante las primeras horas de la tarde y durante últimas horas de la madrugada.
+
+41,Pedrafita,42.685421,-6.986792,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+42,Vega de Valcarcel,42.664658,-6.935758,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+44,Villafranca,42.62454,-6.84299,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante toda la jornada.
+
+49,Guitiriz,43.193607,-7.9537,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante las primeras horas de la tarde.
+
+50,Parga,43.184971,-7.828576,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante las primeras horas de la tarde.
+
+51,Lugo,43.057367,-7.557433,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+52,Lugo,43.01455,-7.519667,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante toda la jornada.
+
+53,Nadela,42.967893,-7.489299,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sureste durante las primeras horas de la tarde.
+
+54,O Corgo,42.906783,-7.283433,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante el día y durante últimas horas de la madrugada.
+
+55,O Corgo,42.919627,-7.209252,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante las primeras horas de la tarde.
+
+56,Vilalba,43.281159,-7.699188,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección suroeste durante las primeras horas de la tarde y durante la noche.
+
+57,O Fiouco,43.3841,-7.3692,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+58,O Fiouco,43.3787,-7.3995,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante las primeras horas de la tarde y durante primeras horas de la madrugada.
+
+59,O Fiouco,43.4132,-7.3397,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sureste durante toda la jornada.
+
+60,Abadín,43.358091,-7.484741,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sureste durante las primeras horas de la tarde.
+
+70,Ribadeo,43.540677,-7.079231,Amarillo,Lluvia,Previsión de nivel de servicio amarillo por lluvia moderada durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante las primeras horas de la tarde.
+
+76,Allariz,42.215103,-7.839118,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante las primeras horas de la tarde y durante la madrugada.
+
+78,Vendas da Barreira,41.982031,-7.544324,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante las últimas horas de la mañana y durante la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+79,Vilardevos,41.9504,-7.358283,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+82,A Gudiña,42.058834,-7.119943,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+84,Vilavella,42.001962,-7.213569,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección suroeste durante toda la jornada.
+
+85,Verín,41.925708,-7.496254,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+86,A Canda,42.036389,-6.978722,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+87,A Canda,42.039962,-7.016063,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante últimas horas de la madrugada. Probabilidad de viento débil de dirección sur durante el día.
+
+88,Vigo,42.212081,-8.698761,Verde,Lluvia,Previsión de nivel de servicio verde por lluvia débil durante la madrugada. Probabilidad de viento débil de dirección sur durante toda la jornada.
+
+95,A Cañiza,42.164695,-8.388512,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección suroeste durante toda la jornada.
+
+96,A Cañiza,42.194103,-8.307463,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante toda la jornada.
+
+97,Ponteareas,42.176665,-8.560361,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección suroeste durante toda la jornada.
+
+98,Dozón,42.560226,-8.029149,Verde,Viento,Previsión de nivel de servicio verde por viento débil de dirección sur durante las primeras horas de la tarde.
+

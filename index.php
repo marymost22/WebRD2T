@@ -19,17 +19,30 @@ function debugFunction()
 function initMapJS($markers)
 {
     $jsMarkers = json_encode($markers);
+    ?>
+    <script type="text/javascript" src="mapFunctions.js">
+        var arrayJS=<?php echo json_encode($markers);?>;
+
+        console.log(arrayJS[0]);
+
+    </script>
+    <?php
+}
+/*{
+    $jsMarkers = json_encode($markers);
     echo '<script type="text/javascript" src="mapFunctions.js">';
     echo 'var jsMarkers ='.$jsMarkers.';';
     echo 'initMap(jsMarkers);';
     echo '</script>';
-}
+}*/
+
+
 
 
 
 function loadCSVdata()
 {
-    $data = file_get_contents('C:/Users/Mary Luz/Documents/Informatica/TFG/RD2T/output/' . $_GET["file"] . '/' . $_GET["file"] . '.csv');
+    $data = file_get_contents('./' . $_GET["file"] . '/' . $_GET["file"] . '.csv');
     $lines = explode("\n\n", $data);
 
     foreach ($lines as $key => $value) {
@@ -53,9 +66,9 @@ if (isset($_GET['loadData'])) {
 
 <section id="menuSection" class="menuSection">
     <a id="tituloMenu" class="menuItem">Pronósticos</a>
-    <a href="index.php?loadData=true&file=Roadcast_2018-01-26" class="menuItem">Roadcast_2018-01-26</a>
-    <a href="index.php?loadData=true&file=Roadcast_2018-02-14" class="menuItem">Roadcast_2018-02-14</a>
-    <a href="index.php?loadData=true&file=Roadcast_2018-03-23" class="menuItem">Roadcast_2018-03-23</a>
+    <a href="index.php?loadData=true&file=Roadcast_2018-04-01" class="menuItem">Roadcast_2018-04-01</a>
+    <a href="index.php?loadData=true&file=Roadcast_2018-04-01" class="menuItem">Roadcast_2018-04-01</a>
+    <a href="index.php?loadData=true&file=Roadcast_2018-04-01" class="menuItem">Roadcast_2018-04-01</a>
     <a href="index.php?loadData=true&file=Roadcast_2018-04-01" class="menuItem">Roadcast_2018-04-01</a>
 </section>
 <section id="map" class="map"/>
